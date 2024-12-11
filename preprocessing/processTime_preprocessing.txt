@@ -1,0 +1,13 @@
+crop + filter + separate 
+
+############################
+
+circle : 
+diamond : 0:01:12
+ellipse : 2:09:28
+etc : 0:06:58
+hexagon : 0:00:48
+octagon : 0:04:53
+pentagon : 0:01:18
+square : 0:03:17
+triangle : 0:00:52

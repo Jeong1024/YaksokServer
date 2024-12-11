@@ -1,0 +1,12 @@
+process time / testing acc / epoch 
+############################
+
+circle : 
+diamond : 0:21:26 / 65.2024 / 100
+ellipse : 
+etc : 2:16:42 / 86.2955 / 100
+hexagon : 0:19:01 / 83.8930 / 100
+octagon : 1:29:19 / 67.3803 / 100
+pentagon : 0:18:52 / 88.7404 / 100 
+square : 0:57:16 / 89.5354 / 100
+triangle : 1:04:19 / 82.6541 / 100
